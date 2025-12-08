@@ -4,10 +4,7 @@ A simple Python project that asks the user for their name, surname, hobby, and f
 
 What I Learned
 
-Using input()
-
-String formatting with f-strings
-
-Basic string methods (title(), lower(), etc.)
-
-Getting the current date with datetime
+- Using input()
+- String formatting with f-strings
+- Basic string methods (title(), lower(), etc.)
+- Getting the current date with datetime
