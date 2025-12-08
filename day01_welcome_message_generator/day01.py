@@ -2,7 +2,7 @@
 from datetime import datetime
 #Step 1: Ask for user details
 name = input("What is your name? ").title()
-surname = input("What is your surname? ").uppera()
+surname = input("What is your surname? ").upper()
 hobby = input("What is your favorite hobby? ").lower()
 color = input("What is your favorite color? ").lower()
 
