@@ -1,0 +1,12 @@
+[
+  {
+    "task": "Update my resume",
+    "status": "Incomplete",
+    "due_date": "Sunday"
+  },
+  {
+    "task": "Complete the projects by Day 18",
+    "status": "Complete",
+    "due_date": "today"
+  }
+]
