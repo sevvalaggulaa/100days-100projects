@@ -1,0 +1,15 @@
+Pancakes
+Ingredients: Flour, Milk, Eggs, Sugar
+Instructions: Mix the ingredients and fry
+
+Salad
+Ingredients: Lettuce, Tomato, Cucumber, Dressing
+Instructions: Chop ingredients and mix
+
+Smoothie
+Ingredients: Banana, Milk, Honey
+Instructions: Blend all ingredients
+
+Brownie
+Ingredients: Dark chocolate, Butter, Sugar, Eggs, Flour, Cocoa powder, Salt
+Instructions: Melt the chocolate and butter together, mix in sugar and eggs, add dry ingredients, pour into a pan and bake at 180°C for 25 minutes.
